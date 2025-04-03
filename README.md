@@ -1,0 +1,2 @@
+# My-Icon-Name
+icon 
